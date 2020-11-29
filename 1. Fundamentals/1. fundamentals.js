@@ -53,6 +53,7 @@ function main() {
     // Create a buffer and put three 2d clip space points in it
     var positionBuffer = gl.createBuffer();
 
+    // Bind it to ARRAY_BUFFER (think of it as ARRAY_BUFFER = positionBuffer)
     
 }
 
